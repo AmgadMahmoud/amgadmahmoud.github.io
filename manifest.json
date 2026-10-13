@@ -1,12 +1,12 @@
 {
-    "name": "my_cv",
-    "short_name": "my_cv",
+    "name": "Amgad Mahmoud — Senior Mobile Engineer",
+    "short_name": "Amgad Mahmoud",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "My CV",
-    "orientation": "portrait-primary",
+    "background_color": "#BBB2A9",
+    "theme_color": "#3D2B1F",
+    "description": "Amgad Mahmoud — Senior Mobile Engineer. Flutter and native Android/iOS portfolio: experience, projects and skills.",
+    "orientation": "any",
     "prefer_related_applications": false,
     "icons": [
         {
