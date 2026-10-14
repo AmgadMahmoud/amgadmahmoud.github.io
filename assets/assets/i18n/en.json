@@ -1,5 +1,5 @@
 {
-  "app_title": "Amgad Mahmoud — Senior Mobile Engineer",
+  "app_title": "Amgad CV",
   "nav_home": "Home",
   "nav_experience": "Experience",
   "nav_projects": "Projects",
@@ -7,6 +7,8 @@
   "nav_about": "About",
   "theme_light": "Switch to light theme",
   "theme_dark": "Switch to dark theme",
+  "install_app_windows": "Install the app on Windows",
+  "install_app_mac": "Install the app on Mac",
   "view_projects": "View projects",
   "get_in_touch": "Get in touch",
   "view_all_projects": "All projects",
